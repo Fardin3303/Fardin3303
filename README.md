@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Fardin3303
 -    I have some experience in python, matlab and scripting in arc gis environments
 - 👀 I’m interested in data scinece and machine learning
-- 🌱 I’m currently learning linux command line and c++ and attending ML with python at freecodecamp
+- 🌱 I’m currently learning linux command line, SQL, PostGIS etc.
