@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Fardin3303
--    I have some experience in python, matlab and scripting in arc gis environments
-- 👀 I’m interested in data scinece and machine learning
-- 🌱 I’m currently learning linux command line, SQL, PostGIS etc.
+I am a software developer at AFRY, where I contribute to the development,
+maintenance, and enhancement of software solutions. With a particular focus
+on geospatial data and smart forestry. As a software developer, I value
+simple, decoupled, and modular architectures, reproducible results, and
+automating as much of the development as possible.
